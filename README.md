@@ -1,1 +1,2 @@
--Hi I am Gabriele, i am currently studying Reinforcement learning
+👋 Hi, I’m Gabriele Righi
+🌱 I’m currently learning Reinforcement Learning
